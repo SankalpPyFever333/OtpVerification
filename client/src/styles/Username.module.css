@@ -29,5 +29,11 @@
       background-color: red;
 }
 
+/* targeting the input having type="file */
+input[type="file"]{
+      display: none;
+}
+
+
 
 
